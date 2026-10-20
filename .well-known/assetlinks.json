@@ -1,0 +1,4 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "io.github.b98i1pixel.sabeel", "sha256_cert_fingerprints": ["4E:B3:45:85:11:97:A1:9A:52:4A:DE:02:21:CE:D7:7F:17:63:EE:D7:BD:6E:DC:70:E3:C6:34:E2:F1:FC:ED:2A"] }
+}]
